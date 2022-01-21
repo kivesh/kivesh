@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kivesh
 - 👀 I’m interested in having fun
-- 🌱 I’m currently learning Java EE
+- 🌱 I’m currently learning Building an amazon clone with React
 
 <!---
 kivesh/kivesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
